@@ -1,0 +1,374 @@
+[
+  {
+    "id": 1,
+    "name": "app1",
+    "HwReqs": 1,
+    "MaxReqs": 200,
+    "MaxLatency": 50,
+    "transmission": [
+      {
+        "message_in": "ms_1",
+        "module": "Edge1"
+      }
+    ],
+    "module": [
+      {
+        "id": 1,
+        "name": "Edge1",
+        "type": "MODULE",
+        "RAM": 1
+      }
+    ],
+    "message": [
+      {
+        "id": 1,
+        "name": "ms_1",
+        "s": "None",
+        "d": "Edge1",
+        "bytes": 20,
+        "instructions": 30
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "name": "app2",
+    "HwReqs": 1,
+    "MaxReqs": 200,
+    "MaxLatency": 50,
+    "transmission": [
+      {
+        "message_in": "ms_2",
+        "module": "Edge2"
+      }
+    ],
+    "module": [
+      {
+        "id": 2,
+        "name": "Edge2",
+        "type": "MODULE",
+        "RAM": 1
+      }
+    ],
+    "message": [
+      {
+        "id": 2,
+        "name": "ms_2",
+        "s": "None",
+        "d": "Edge2",
+        "bytes": 20,
+        "instructions": 30
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "name": "app3",
+    "HwReqs": 1,
+    "MaxReqs": 200,
+    "MaxLatency": 50,
+    "transmission": [
+      {
+        "message_in": "ms_3",
+        "module": "Edge3"
+      }
+    ],
+    "module": [
+      {
+        "id": 3,
+        "name": "Edge3",
+        "type": "MODULE",
+        "RAM": 1
+      }
+    ],
+    "message": [
+      {
+        "id": 3,
+        "name": "ms_3",
+        "s": "None",
+        "d": "Edge3",
+        "bytes": 20,
+        "instructions": 30
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "name": "app4",
+    "HwReqs": 1,
+    "MaxReqs": 200,
+    "MaxLatency": 50,
+    "transmission": [
+      {
+        "message_in": "ms_4",
+        "module": "Edge4"
+      }
+    ],
+    "module": [
+      {
+        "id": 4,
+        "name": "Edge4",
+        "type": "MODULE",
+        "RAM": 1
+      }
+    ],
+    "message": [
+      {
+        "id": 4,
+        "name": "ms_4",
+        "s": "None",
+        "d": "Edge4",
+        "bytes": 20,
+        "instructions": 30
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "name": "app5",
+    "HwReqs": 1,
+    "MaxReqs": 200,
+    "MaxLatency": 50,
+    "transmission": [
+      {
+        "message_in": "ms_5",
+        "module": "Edge5"
+      }
+    ],
+    "module": [
+      {
+        "id": 5,
+        "name": "Edge5",
+        "type": "MODULE",
+        "RAM": 1
+      }
+    ],
+    "message": [
+      {
+        "id": 5,
+        "name": "ms_5",
+        "s": "None",
+        "d": "Edge5",
+        "bytes": 20,
+        "instructions": 30
+      }
+    ]
+  },
+  {
+    "id": 6,
+    "name": "app6",
+    "HwReqs": 1,
+    "MaxReqs": 200,
+    "MaxLatency": 50,
+    "transmission": [
+      {
+        "message_in": "ms_6",
+        "module": "Edge6"
+      }
+    ],
+    "module": [
+      {
+        "id": 6,
+        "name": "Edge6",
+        "type": "MODULE",
+        "RAM": 1
+      }
+    ],
+    "message": [
+      {
+        "id": 6,
+        "name": "ms_6",
+        "s": "None",
+        "d": "Edge6",
+        "bytes": 20,
+        "instructions": 30
+      }
+    ]
+  },
+  {
+    "id": 7,
+    "name": "app7",
+    "HwReqs": 1,
+    "MaxReqs": 200,
+    "MaxLatency": 50,
+    "transmission": [
+      {
+        "message_in": "ms_7",
+        "module": "Edge7"
+      }
+    ],
+    "module": [
+      {
+        "id": 7,
+        "name": "Edge7",
+        "type": "MODULE",
+        "RAM": 1
+      }
+    ],
+    "message": [
+      {
+        "id": 7,
+        "name": "ms_7",
+        "s": "None",
+        "d": "Edge7",
+        "bytes": 20,
+        "instructions": 30
+      }
+    ]
+  },
+  {
+    "id": 8,
+    "name": "app8",
+    "HwReqs": 1,
+    "MaxReqs": 200,
+    "MaxLatency": 50,
+    "transmission": [
+      {
+        "message_in": "ms_8",
+        "module": "Edge8"
+      }
+    ],
+    "module": [
+      {
+        "id": 8,
+        "name": "Edge8",
+        "type": "MODULE",
+        "RAM": 1
+      }
+    ],
+    "message": [
+      {
+        "id": 8,
+        "name": "ms_8",
+        "s": "None",
+        "d": "Edge8",
+        "bytes": 20,
+        "instructions": 30
+      }
+    ]
+  },
+  {
+    "id": 9,
+    "name": "app9",
+    "HwReqs": 1,
+    "MaxReqs": 200,
+    "MaxLatency": 50,
+    "transmission": [
+      {
+        "message_in": "ms_9",
+        "module": "Edge9"
+      }
+    ],
+    "module": [
+      {
+        "id": 9,
+        "name": "Edge9",
+        "type": "MODULE",
+        "RAM": 1
+      }
+    ],
+    "message": [
+      {
+        "id": 9,
+        "name": "ms_9",
+        "s": "None",
+        "d": "Edge9",
+        "bytes": 20,
+        "instructions": 30
+      }
+    ]
+  },
+  {
+    "id": 10,
+    "name": "app10",
+    "HwReqs": 1,
+    "MaxReqs": 200,
+    "MaxLatency": 50,
+    "transmission": [
+      {
+        "message_in": "ms_10",
+        "module": "Edge10"
+      }
+    ],
+    "module": [
+      {
+        "id": 10,
+        "name": "Edge10",
+        "type": "MODULE",
+        "RAM": 1
+      }
+    ],
+    "message": [
+      {
+        "id": 10,
+        "name": "ms_10",
+        "s": "None",
+        "d": "Edge10",
+        "bytes": 20,
+        "instructions": 30
+      }
+    ]
+  },
+  {
+    "id": 11,
+    "name": "app11",
+    "HwReqs": 1,
+    "MaxReqs": 200,
+    "MaxLatency": 50,
+    "transmission": [
+      {
+        "message_in": "ms_11",
+        "module": "Edge11"
+      }
+    ],
+    "module": [
+      {
+        "id": 11,
+        "name": "Edge11",
+        "type": "MODULE",
+        "RAM": 1
+      }
+    ],
+    "message": [
+      {
+        "id": 11,
+        "name": "ms_11",
+        "s": "None",
+        "d": "Edge11",
+        "bytes": 20,
+        "instructions": 30
+      }
+    ]
+  },
+  {
+    "id": 12,
+    "name": "app12",
+    "HwReqs": 1,
+    "MaxReqs": 200,
+    "MaxLatency": 50,
+    "transmission": [
+      {
+        "message_in": "ms_12",
+        "module": "Edge12"
+      }
+    ],
+    "module": [
+      {
+        "id": 12,
+        "name": "Edge12",
+        "type": "MODULE",
+        "RAM": 1
+      }
+    ],
+    "message": [
+      {
+        "id": 12,
+        "name": "ms_12",
+        "s": "None",
+        "d": "Edge12",
+        "bytes": 20,
+        "instructions": 30
+      }
+    ]
+  }
+]

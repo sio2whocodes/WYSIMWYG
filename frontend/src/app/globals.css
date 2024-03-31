@@ -1,0 +1,36 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+html {
+  background-color: #eee;
+  overflow-y: auto;
+  height: 100%;
+  width: 100%;
+}
+main {
+  overflow-y: auto;
+  height: 100%;
+}
+@layer base {
+  html {
+    @apply h-full;
+  }
+  body {
+    @apply text-black h-full overflow-y-auto scroll-smooth;
+  }
+  main {
+    @apply h-full;
+  }
+  *::-webkit-scrollbar {
+    @apply w-0 h-0;
+  }
+  *::-webkit-scrollbar-thumb {
+    @apply bg-black;
+  }
+  main::-webkit-scrollbar {
+    @apply w-0 h-0 bg-white;
+  }
+}
+@layer utilities {
+}

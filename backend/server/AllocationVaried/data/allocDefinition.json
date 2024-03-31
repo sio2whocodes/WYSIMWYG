@@ -1,0 +1,64 @@
+{
+  "initialAllocation": [
+    {
+      "module_name": "Edge1",
+      "app": "app1",
+      "id_resource": 0
+    },
+    {
+      "module_name": "Edge2",
+      "app": "app2",
+      "id_resource": 0
+    },
+    {
+      "module_name": "Edge3",
+      "app": "app3",
+      "id_resource": 0
+    },
+    {
+      "module_name": "Edge4",
+      "app": "app4",
+      "id_resource": 0
+    },
+    {
+      "module_name": "Edge5",
+      "app": "app5",
+      "id_resource": 0
+    },
+    {
+      "module_name": "Edge6",
+      "app": "app6",
+      "id_resource": 0
+    },
+    {
+      "module_name": "Edge7",
+      "app": "app7",
+      "id_resource": 0
+    },
+    {
+      "module_name": "Edge8",
+      "app": "app8",
+      "id_resource": 0
+    },
+    {
+      "module_name": "Edge9",
+      "app": "app9",
+      "id_resource": 0
+    },
+    {
+      "module_name": "Edge10",
+      "app": "app10",
+      "id_resource": 0
+    },
+    {
+      "module_name": "Edge11",
+      "app": "app11",
+      "id_resource": 0
+    },
+    {
+      "module_name": "Edge12",
+      "app": "app12",
+      "id_resource": 0
+    }
+  ]
+}

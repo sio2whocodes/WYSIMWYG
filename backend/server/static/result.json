@@ -1,0 +1,22 @@
+{
+	"result":{
+		"00cost":46.88,
+
+		"01avg_response_time":6.53,
+		"02avg_response_time_in_edge":0.23,
+		"03avg_response_time_in_cloud":7.26,
+
+		"04min_response_time":22.4,
+		"05max_response_time":24.4,
+
+		"06success_rate_in_downtime($s)":76.2,
+		"07success_rate_in_downtime($s) - edge":98.4,
+		"08success_rate_in_downtime($s) - cloud":56.8,
+
+		"09range_of_benefit(edge)": 350,
+		"10latency_difference":12,
+
+		"11total_cost":4675.09,
+		"12total_improvement":37
+	}
+}

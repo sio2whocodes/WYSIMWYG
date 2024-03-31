@@ -1,0 +1,88 @@
+const CAPTION_INFO = [
+  {
+    local_id: 1,
+    storage_type: "CLOUD",
+    storage_id: 0,
+    data_size: 140,
+    population: 140,
+  },
+  {
+    local_id: 2,
+    storage_type: "CLOUD",
+    storage_id: 0,
+    data_size: 80,
+    population: 80,
+  },
+  {
+    local_id: 3,
+    storage_type: "CLOUD",
+    storage_id: 0,
+    data_size: 130,
+    population: 130,
+  },
+  {
+    local_id: 4,
+    storage_type: "CLOUD",
+    storage_id: 0,
+    data_size: 220,
+    population: 220,
+  },
+  {
+    local_id: 5,
+    storage_type: "CLOUD",
+    storage_id: 0,
+    data_size: 370,
+    population: 370,
+  },
+  {
+    local_id: 6,
+    storage_type: "CLOUD",
+    storage_id: 0,
+    data_size: 180,
+    population: 180,
+  },
+  {
+    local_id: 7,
+    storage_type: "CLOUD",
+    storage_id: 0,
+    data_size: 140,
+    population: 140,
+  },
+  {
+    local_id: 8,
+    storage_type: "CLOUD",
+    storage_id: 0,
+    data_size: 240,
+    population: 240,
+  },
+  {
+    local_id: 9,
+    storage_type: "CLOUD",
+    storage_id: 0,
+    data_size: 150,
+    population: 150,
+  },
+  {
+    local_id: 10,
+    storage_type: "CLOUD",
+    storage_id: 0,
+    data_size: 250,
+    population: 250,
+  },
+  {
+    local_id: 11,
+    storage_type: "CLOUD",
+    storage_id: 0,
+    data_size: 130,
+    population: 130,
+  },
+  {
+    local_id: 12,
+    storage_type: "CLOUD",
+    storage_id: 0,
+    data_size: 150,
+    population: 150,
+  },
+];
+
+export { CAPTION_INFO };
